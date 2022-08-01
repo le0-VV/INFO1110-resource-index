@@ -1,5 +1,9 @@
 # The resource index of USyd's INFO1110 course for S2 2022 #
 
+暂时不想写中文readme，需求大的话我再写
+
+# The resource index of USyd's INFO1110 course for S2 2022 #
+
 ***Please read through the following before using this repository***
 
 This is an organised index of resources for USyd's 2022 S2 course INFO1110, maintained exclusively by students (for now)
@@ -31,4 +35,4 @@ Currently I'm manually uploading files to this repo, so materials will not be im
     
     * Ask Ashlyxn to open a new channel on discord for requests, may result in incoherent chaos, I haven't officially asked her about it yet, might never idk I need coffee
 
-Again, refer to teh changelog for update notes
+Again, refer to the changelog for update notes
