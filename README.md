@@ -2,8 +2,6 @@
 
 暂时不想写中文readme，需求大的话我再写
 
-# The resource index of USyd's INFO1110 course for S2 2022 #
-
 ***Please read through the following before using this repository***
 
 This is an organised index of resources for USyd's 2022 S2 course INFO1110, maintained exclusively by students (for now)
